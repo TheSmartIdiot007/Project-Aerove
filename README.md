@@ -1,4 +1,4 @@
-# Trajectory_Tracking_AeRoVe
+# Trajectory Generation & Tracking [Aerove]
 
 ## Trajectory Generation
 We used minimum snap trajectory generation to generate a smooth 8 degree polynomial trajectory passing through a sequence of waypoints<br>
